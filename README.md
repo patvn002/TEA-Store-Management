@@ -52,7 +52,7 @@ Use pytest to run tests defined in test_bubbletea.py to ensure reliability and c
 
 # Author
 
-Vraj Patel (Username: patvn002, Student ID: 110422159)
+Vraj Patel (Username: patvn002)
 
 This work complies with the University's Academic Misconduct Policy.
 
